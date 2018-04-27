@@ -1,0 +1,31 @@
+Hashbang SecSoc CTF!
+Date: April 21st, 2018
+Team: lyceum (nhat286 ^ Penniless)
+
+1. Reversing (RE):
+a. madorbad
+
+2. Binary: Whropper
+
+3. Web:
+
+4. Forensics:
+a. An Ugly Rainbow
+
+b. bits 'n' pizza
+
+5. Network
+
+6. Crypto
+a. Best Cipher
+
+b. Pluses and Minuses
+
+7. Recon
+
+8. Misc
+a. so basic
+
+b. GTFO
+
+c. breadcrumbs
