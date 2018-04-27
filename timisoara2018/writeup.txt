@@ -1,0 +1,19 @@
+Timisoara CTF!
+Date: April 14th - 21st, 2018
+Team: lyceum (nhat286 ^ Penniless)
+
+1. Reverse Engineering (RE):
+a. history
+
+2. Pwnable
+a. attendance
+
+b. c party
+
+
+3. Web:
+
+4. Forensics:
+
+5. Crypto
+a. Substitute Teacher
