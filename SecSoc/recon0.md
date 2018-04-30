@@ -5,4 +5,4 @@ password: recon0
 ```
 #### Solution
 
-We used terminal to ssh to the server and we used >ls -lah to list 
+We used terminal to ssh to the server and we used ```ls -lah``` to list all of files including the hidden ones
